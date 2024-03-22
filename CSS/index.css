@@ -1,0 +1,302 @@
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    position: fixed;
+}
+.leTitre{
+    width: 60PX;
+    height: 32px;
+    background-color: yellow;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.leTitre input{
+    display: flex;
+    justify-content: center;
+    margin-left: 600px;
+    margin-top: -50px;
+}
+.barreJaune{
+    width: 150px;
+    height: 20px;
+    background-color: yellow;
+    margin-left: 836px;
+    margin-top: -50px;
+    justify-content: center;
+    cursor: pointer;
+}
+.logo img{
+    width: 30px;
+    height: 30px;
+    margin-left: 1020px;
+}
+.logo p{
+    margin-left: 1060px;
+    margin-top: -30px;
+    color: yellow;
+}
+.panier img{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 1200px;
+    margin-top: -35px;
+}
+.panier p{
+    margin-left: 1250px;
+    margin-top: -30px;
+    color: yellow;
+}
+.laBrreVerte{
+    width: 100%;
+    height: 100px;
+    background-color: greenyellow;
+    margin-top: -3px;
+}
+.laBrreVerte h1{
+ display: flex;
+ justify-content: center;
+}
+.laPremiereImage img{
+    width: 300px;
+    height: 300px;
+    margin-top: 200px;
+    box-shadow: 10px 30px 25px;
+}
+.laDeu img{
+    width: 300px;
+    height: 300px;
+    margin-top: -690px;
+    margin-left: 370px;
+    box-shadow: 23px 0px 32px red;
+}
+.deuxieme{
+    width: 250px;
+    height: 300px;
+    border: 2px solid black;
+
+}
+.lagrandeimag img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+.l img{
+    width: 20px;
+    height: 200px;
+    border: 2px solid black;
+}
+.secr{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin-left: 780px;
+    margin-top: -300px;
+  
+}
+.secr img{
+   width: 300px;
+   height: 300px;
+}
+.long{
+    width: 100%;
+    height: 110px;
+    background-color: green;
+    margin-top: 20px;
+   
+}
+.long h2{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.lesProduits img {
+    width: 200px;
+    height: 200px;
+}
+.p img{
+    width: 200px;
+    height: 200px;
+    margin-left: 230px;
+    margin-top: -240px;
+}
+.o img{
+    width: 200px;
+    height: 200px;
+    margin-left: 480px;
+    margin-top: -500px;
+}
+.oi img{
+    width: 200px;
+    height: 200px;
+    margin-left: 720px;
+    margin-top: -560px;
+}
+.h img{
+    width: 200px;
+    height: 200px;
+    margin-left: 1000px;
+    margin-top: -500px;
+}
+.ö{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.ö h1{
+    color: white;
+}
+.re img{
+    width: 300px;
+    height: 300px;
+    
+}
+.dauphin img{
+    width: 300px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: -350px;
+}
+.im img{
+    width: 300px;
+    height: 300px;
+    margin-left: 758px;
+    margin-top: -350px;
+}
+.mon img{
+    width: 320px;
+    margin-left: 1090px;
+    margin-top: -400px;
+}
+.jau{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.madonna img{
+    width: 300px;
+    height: 300px;
+}
+.t img{
+    position: relative;
+    left: 390px;
+    top: -230px;
+}
+.k img{
+    position: relative;
+    left: 750px;
+    top: -460px;
+}
+.pl img{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    left: 1000px;
+    top: -690px;
+}
+.barre{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    position: relative;
+    top: -630px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.esp img{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: -600px;
+}
+.bic img{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    top: -900px;
+}
+.cahier img{
+    position: relative;
+    left: 760px;
+    top: -1200px;
+}
+.gomme img{
+    position: relative;
+    top: -1400PX;
+    left:1000PX ;
+    width: 300px;
+    height: 300px;
+}
+.b{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(65, 170, 65);
+    position: relative;
+    top: -1430px;
+}
+.b p{
+    display: flex;
+    position: relative;
+    align-items: center;
+    top: 40px;
+    left: 50px;
+    color: white;
+}
+.inp input{
+    position: relative;
+    left: 500px;
+}
+.b button{
+    position: relative;
+    left: 680px;
+    top: -22px;
+    background-color: yellow;
+    text-decoration: none;
+}
+.laB{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    position: relative;
+    top: -1430px;
+}
+.laB H1{
+    position: relative;
+    left: 20PX;
+}
+.laB H2{
+    position: relative;
+    left: 300PX;
+    top: -53px;
+    font-size: 35px;
+}
+.laB h3{
+    position: relative;
+    left: 600px;
+    top: -130px;
+    font-size: 35px;
+}
+.laB h4{
+    position: relative;
+    left: 1000px;
+    top: -220px;
+    font-size: 35px;
+}
+.goo img{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 30px;
+    top: -30px;
+    z-index: -10px;
+   
+}
